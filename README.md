@@ -8,4 +8,4 @@
   
    [SIMPLE QUEUE(click here)](https://github.com/theoriginalsam/ADA/blob/master/Queue/simpleQueue.cpp)
 
- # _Circular Queue_ :
+# 2_> _Circular Queue_ :
