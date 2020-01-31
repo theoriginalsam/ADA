@@ -10,3 +10,11 @@
    [SIMPLE QUEUE(click here)](https://github.com/theoriginalsam/ADA/blob/master/Queue/simpleQueue.cpp)
 
 # 2-> _Circular Queue_ :
+
+
+
+
+
+
+
+ **_Codes here are originally written by [Samir](https://www.instagram.com/the_originalsam/), Make sure to take idea from it rather copying every bit of it_**
